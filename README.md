@@ -13,4 +13,4 @@ Integration the Ethereum blockchain network into the application in order to ena
 
 #### FRONT-END DISPLAY
 
-![Screenshot1](Images\screen_shots\Slide1.JPG)
+![Screenshot1](Images/screen_shots/Slide1.JPG)
